@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 <p><em>Student at<a href="http://www.jiit.ac.in/">Jaypee Institute Of Information Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
-[![Linkedin: Kumar Prateek](https://img.shields.io/badge/-kumar Prateek-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-prateek-7637b398/)](https://www.linkedin.com/in/kumar-prateek-7637b398/)
+[![Linkedin: Kumar Prateek](https://img.shields.io/badge/-kumarPrateek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-prateek-7637b398/)](https://www.linkedin.com/in/kumar-prateek-7637b398/)
 [![GitHub Prateek](https://img.shields.io/github/followers/nerdishhomosapein?label=follow&style=social)](https://github.com/nerdishhomosapein)
 
 
