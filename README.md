@@ -12,10 +12,9 @@
 const prateek = {
   pronouns: "he" | "him",
   code: [Python, C++, HTML, CSS, JavaScript],
-  tools: [PyTorch, Flask, Streamlit, Docker,],
-  working-area: [machine-learning, Deep Learning, Web Services],
+  tools: [PyTorch, Flask, Streamlit, Docker,Django. JS],
+  working-area: [machine-learning, Deep Learning, Web Services,],
   
- challenge: "I am competing in Pytorch Summer Hackathon"
 }
 ```
 
