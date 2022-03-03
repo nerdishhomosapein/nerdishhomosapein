@@ -11,7 +11,7 @@
 ```javascript
 const prateek = {
   pronouns: "he" | "him",
-  code: [Python, C++, HTML, CSS, JavaScript],
+  code: [Python, NodeJS, C++, HTML, CSS],
   tools: [PyTorch, Flask, Streamlit, Docker,Django. JS],
   working-area: [machine-learning, Deep Learning, Web Services,],
   
